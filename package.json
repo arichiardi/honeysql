@@ -1,0 +1,18 @@
+{
+  "name": "@elasticpath/honeysql",
+  "version": "0.9.1",
+  "author": "Andrea Richiardi",
+  "license": "Unlicense",
+  "homepage": "https://github.com/arichiardi/honeysql",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/arichiardi/honeysql"
+  },
+  "directories": {
+    "lib": "src",
+    "cache": "./lumo-cache"
+  },
+  "dependencies": {
+    "macrovich": "0.2.1-SNAPSHOT"
+  }
+}
